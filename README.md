@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chukwudi Nwachukwu and I am new here :)
-- 👀 I’m interested in learning more about development and 
+- 👀 I’m interested in learning more about software development/testing, CyberSecurity and Data Analytics.
 - 🌱 I’m currently learning SQL and JavaScript
 - 💞️ I’m looking to collaborate on personal projects and real-world problems
 - 📫 How to reach me - email: chuky.nwachukwu@gmail.com
